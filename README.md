@@ -1,2 +1,4 @@
 # KarsaOS
-Karsa OS adalah sistem operasi berbasis Void Linux yang dirancang khusus untuk mendukung kebutuhan pekerja kantoran. Dengan mengedepankan kecepatan, keamanan, dan efisiensi, Karsa OS hadir sebagai solusi modern untuk produktivitas.
+KarsaOS adalah sistem operasi berbasis Void Linux yang dirancang khusus untuk mendukung kebutuhan pembelajaran. Dengan mengedepankan efisiensi, keamanan, dan kemudahan, KarsaOS hadir sebagai media OS pembelajaran siswa yang hendak ingin mempelajari cara kerja operasi sistem pada linux.
+
+wiki : -
