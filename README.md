@@ -1,6 +1,6 @@
 # 🇮🇩 KarsaOS - Linux Ringan dengan AI Lokal untuk Indonesia
 
-📌 **KarsaOS** adalah distribusi Linux berbasis **Debian 12 + Cinnamon** yang dirancang khusus untuk pengguna Indonesia.  
+📌 **KarsaOS** adalah distribusi Linux berbasis **Debian 12** yang dirancang khusus untuk pengguna Indonesia.  
 Fokus utama kami adalah memberikan **pengalaman sistem operasi yang ringan, mudah digunakan**, serta didampingi oleh **AI lokal proaktif** yang membantu pengguna memahami sistem dengan mudah dan simpel.
 
 ---
