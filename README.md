@@ -9,7 +9,7 @@ Fokus utama kami adalah memberikan **pengalaman sistem operasi yang ringan, muda
 
 ✨ KarsaOS menggabungkan:
 - 🎯 **Kinerja optimal** untuk laptop lama (RAM 2GB–4GB)
-- 🖥️ Antarmuka seperti Windows — cocok untuk pemula
+- 🖥️ Antarmuka seperti Windows cocok untuk pemula
 - 🧠 **Asisten AI lokal proaktif** yang bekerja offline
 - 🇮🇩 Komunikasi penuh dalam Bahasa Indonesia
 - ⚙️ File watcher & log analyzer pintar: bantu jelaskan error tanpa pusing baca log
