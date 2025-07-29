@@ -1,35 +1,80 @@
-#KarsaOS
-📌 KarsaOS adalah distribusi Linux berbasis Debian yang dirancang khusus untuk pengguna Indonesia. Fokus utama kami adalah memberikan pengalaman sistem operasi yang ringan, mudah digunakan, serta didampingi oleh AI lokal proaktif yang membantu pengguna memahami sistem tanpa harus membaca dokumentasi teknis.
+# 🇮🇩 KarsaOS - Linux Ringan dengan AI Lokal untuk Indonesia
 
-🚀 Bagaimana KarsaOS Membantu Pengguna?
-KarsaOS menyatukan optimasi performa, pengalaman pengguna yang familiar, dan asisten AI lokal yang aktif merespons aktivitas pengguna.
+📌 **KarsaOS** adalah distribusi Linux berbasis **Debian 12 + Cinnamon** yang dirancang khusus untuk pengguna Indonesia.  
+Fokus utama kami adalah memberikan **pengalaman sistem operasi yang ringan, mudah digunakan**, serta didampingi oleh **AI lokal proaktif** yang membantu pengguna memahami sistem tanpa harus membaca dokumentasi teknis.
 
-⚙️ Optimasi & Fitur Unggulan KarsaOS
-🧠 AI Lokal Proaktif – KarsaAssistant
-Asisten berbasis Phi-2 (via Ollama) yang bisa bekerja offline.
-Memberi saran otomatis saat pengguna mengunduh file, gagal menjalankan perintah, atau mengalami error sistem.
-Komunikasi menggunakan Bahasa Indonesia yang ringan dan ramah.
+---
 
-💨 Kinerja Ringan untuk Laptop Lama
-Berdasarkan Debian + Cinnamon, cocok untuk laptop dengan RAM 2GB-4GB.
-Antarmuka seperti Windows — memudahkan transisi pengguna awam.
+## 🧠 Kenapa KarsaOS?
 
-🛠️ Sistem Pintar & Ringan
-File Watcher bawaan: memantau aktivitas pengguna secara kontekstual.
-Crash/Log Helper: otomatis membaca log sistem dan menjelaskan error-nya.
-Notifikasi Interaktif: popup ringan untuk membantu, bukan mengganggu.
-Konfigurasi sistem disederhanakan untuk pemula.
+✨ KarsaOS menggabungkan:
+- 🎯 **Kinerja optimal** untuk laptop lama (RAM 2GB–4GB)
+- 🖥️ Antarmuka seperti Windows — cocok untuk pemula
+- 🧠 **Asisten AI lokal proaktif** yang bekerja offline
+- 🇮🇩 Komunikasi penuh dalam Bahasa Indonesia
+- ⚙️ File watcher & log analyzer pintar: bantu jelaskan error tanpa pusing baca log
 
-🧰 Karsa Tools
-Komponen	Fungsi
-karsa-daemon	Memantau aktivitas pengguna, log sistem, dan memicu respons AI.
-karsa-ai	CLI/GUI untuk berbicara dengan AI lokal dalam Bahasa Indonesia.
-karsa-config	Tweaker sistem sederhana berbasis GUI.
-karsa-welcome	Panduan awal (first boot walkthrough) bagi pengguna baru.
+---
 
-🧠 Dibangun dengan Teknologi Cerdas
-Phi-2 / Gemma via Ollama — model AI kecil namun tangguh.
-inotify / psutil — untuk deteksi file & proses sistem.
-Zenity / YAD — untuk popup GUI ringan yang tidak memberatkan sistem.
-Text-to-Speech optional — pakai espeak-ng untuk dukungan suara Bahasa Indonesia.
+## 🛠️ Fitur Unggulan KarsaOS
+
+| Fitur                  | Deskripsi                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| 🤖 `KarsaAssistant`     | AI berbasis [Phi-2](https://huggingface.co/microsoft/phi-2) (via Ollama), bekerja **offline** untuk bantu pengguna |
+| 🪶 Ringan & Familiar    | Debian + Cinnamon = ringan & akrab bagi pengguna Windows                 |
+| 🧭 File Watcher         | Deteksi aktivitas file & berikan bantuan saat pengguna kebingungan       |
+| 💥 Crash/Log Helper     | Membaca log & memberi tahu pengguna dalam bahasa yang ramah dan ringan   |
+| 🧰 Karsa Tools          | Daemon pemantau sistem + GUI konfigurasi ringan untuk pemula             |
+| 🎙️ Text-to-Speech Opsional | Bantu dengan suara (pakai `espeak-ng`, Zenity/YAD) — opsional dan ringan      |
+
+---
+
+## 📦 Komponen KarsaOS
+
+| Komponen        | Fungsi                                                                 |
+|------------------|------------------------------------------------------------------------|
+| `karsa-daemon`   | Monitor log sistem & trigger AI sesuai konteks                         |
+| `karsa-ai`       | CLI/GUI antarmuka AI lokal Bahasa Indonesia                            |
+| `karsa-config`   | GUI tweak sistem ringan (disable animasi, tweak startup)               |
+| `karsa-welcome`  | Panduan awal saat boot pertama, mudah dipahami pemula                  |
+
+---
+
+## 🧰 Dibangun dengan Teknologi:
+
+- 💡 [Ollama](https://ollama.com) – Jalankan LLM lokal seperti Phi-2 / Gemma secara offline
+- 🔍 `inotify` / `psutil` – Monitor perubahan file dan proses sistem
+- 🧠 AI ringan – Cocok untuk laptop RAM kecil tanpa perlu koneksi internet
+- 🗣️ `espeak-ng`, `YAD`, `Zenity` – Untuk feedback suara ringan (opsional)
+
+---
+
+## 🎯 Target Pengguna
+
+- 🧓 Pemula yang tidak ingin repot dengan dokumentasi teknis
+- 💻 Pengguna laptop lama dengan spesifikasi terbatas
+- 🇮🇩 Pengguna yang ingin sistem operasi berbahasa Indonesia dengan AI pendamping
+
+---
+
+## 📥 Cara Mencoba (Coming Soon)
+
+> File ISO akan segera tersedia di halaman **[Releases](https://github.com/BagasFeliciaR/KarsaOS/releases)**.
+
+---
+
+## 🤝 Dukungan & Komunitas
+
+Kami terbuka untuk kolaborasi dan kontribusi!  
+Silakan bergabung dan bantu bangun OS karya anak bangsa 🇮🇩
+
+---
+
+## 📜 Lisensi
+
+MIT License
+
+---
+
+> 💡 *"KarsaOS: Dari kita, untuk kita. Sistem operasi yang memahami, bukan membingungkan."*
 
