@@ -19,7 +19,7 @@ Fokus utama KarsaOS adalah memberikan **pengalaman sistem operasi yang ringan, m
 | Fitur                  | Deskripsi                                                                 |
 |------------------------|---------------------------------------------------------------------------|
 | 🤖 `KarsaAssistant`     | AI berbasis [Phi-2](https://huggingface.co/microsoft/phi-2) (via Ollama), bekerja **offline** untuk bantu pengguna |
-| 🪶 Ringan & Familiar    | Debian + XFCE = ringan & akrab bagi pengguna Windows                 |
+| 🪶 Ringan & Familiar    | Arch + XFCE = ringan & akrab bagi pengguna Windows                 |
 | 🧭 File Watcher         | Deteksi aktivitas file & berikan bantuan saat pengguna kebingungan       |
 | 💥 Crash/Log Helper     | Membaca log & memberi tahu pengguna dalam bahasa yang ramah dan ringan   |
 | 🧰 Karsa Tools          | Daemon pemantau sistem + GUI konfigurasi ringan untuk pemula             |
