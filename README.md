@@ -1,4 +1,4 @@
-# 🇮🇩 KarsaOS - Linux Ringan dengan AI Lokal
+# KarsaOS - Linux Ringan dengan AI Lokal
 
 📌 **KarsaOS** adalah distribusi Linux berbasis **Arch** yang dirancang khusus untuk pengguna pengguna.  
 Fokus utama KarsaOS adalah memberikan **pengalaman sistem operasi yang ringan, mudah digunakan**, serta didampingi oleh **AI lokal proaktif** yang membantu pengguna memahami sistem dengan mudah dan simpel.
@@ -11,8 +11,6 @@ Fokus utama KarsaOS adalah memberikan **pengalaman sistem operasi yang ringan, m
 - 🎯 **Kinerja optimal** untuk laptop lama (RAM 2GB–4GB)
 - 🖥️ Antarmuka seperti Windows cocok untuk pemula
 - 🧠 **Asisten AI lokal proaktif** yang bekerja offline
-- 🇮🇩 Komunikasi penuh dalam Bahasa Indonesia
-- ⚙️ File watcher & log analyzer pintar: bantu jelaskan error tanpa pusing baca log
 
 ---
 
@@ -25,7 +23,6 @@ Fokus utama KarsaOS adalah memberikan **pengalaman sistem operasi yang ringan, m
 | 🧭 File Watcher         | Deteksi aktivitas file & berikan bantuan saat pengguna kebingungan       |
 | 💥 Crash/Log Helper     | Membaca log & memberi tahu pengguna dalam bahasa yang ramah dan ringan   |
 | 🧰 Karsa Tools          | Daemon pemantau sistem + GUI konfigurasi ringan untuk pemula             |
-| 🎙️ Text-to-Speech       | Bantu dengan suara (pakai `espeak-ng`, Zenity/YAD) — opsional dan ringan      |
 
 ---
 
@@ -45,7 +42,6 @@ Fokus utama KarsaOS adalah memberikan **pengalaman sistem operasi yang ringan, m
 - 💡 [Ollama](https://ollama.com) – Jalankan LLM lokal seperti Phi-2 / Gemma secara offline
 - 🔍 `inotify` / `psutil` – Monitor perubahan file dan proses sistem
 - 🧠 AI ringan – Cocok untuk laptop RAM kecil tanpa perlu koneksi internet
-- 🗣️ `espeak-ng`, `YAD`, `Zenity` – Untuk feedback suara ringan (opsional)
 
 ---
 
